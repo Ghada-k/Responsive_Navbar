@@ -1,0 +1,1 @@
+Photo by Pixabay: https://www.pexels.com/photo/mountains-with-white-snow-355747/
