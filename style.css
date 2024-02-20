@@ -72,7 +72,7 @@ nav .nav-logo{
     background-color:rgba(0, 0, 0, 0.707);
     backdrop-filter: blur(10px);
     box-shadow: -10px 0 10px  rgba(0,0,0,0.1);
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
